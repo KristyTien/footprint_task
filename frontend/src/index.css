@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "@xyflow/react/dist/style.css";
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #f1f5f9;
+  color: #0f172a;
+}
+
+* {
+  box-sizing: border-box;
+}

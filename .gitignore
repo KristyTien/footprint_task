@@ -1,0 +1,4 @@
+humanNote/
+.env
+.env.*
+backend/.env
